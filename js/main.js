@@ -19,8 +19,6 @@ const quotes = [
          "Oscar Wilde"],
         ["I have not failed. I've just found 10,000 ways that won't work.",
          "Thomas Edison"],
-        ["Không làm mà muốn ăn thì chỉ có ăn c** ăn đ** b***",
-         "Huấn Rose"],
         ["A woman is like a tea bag; you never know how strong it is until it's in hot water.",
          "Eleanor Roosevelt"],
     ];
